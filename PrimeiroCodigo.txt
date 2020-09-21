@@ -1,0 +1,3 @@
+Arquivo da aula de Git e GitHub para o curso de iniciantes
+
+Eu estou fazendo o curso de Git e GitHub na Udemy!
